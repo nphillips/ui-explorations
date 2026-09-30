@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/nphillips/ui-explorations/actions/workflows/ci.yml/badge.svg)](https://github.com/nphillips/ui-explorations/actions/workflows/ci.yml)
 
-Hand-written React + TypeScript components, one at a time, documented in Storybook.
+Hand-written React + TypeScript components, one at a time, documented in [Storybook](https://nphillips.github.io/ui-explorations/).
 
 Components are written by me; tooling and scaffolding were set up with Claude Code.
 
