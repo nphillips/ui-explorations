@@ -7,5 +7,5 @@
     "types": [],
     "plugins": [{ "name": "typescript-plugin-css-modules" }]
   },
-  "include": ["src", ".storybook/preview.ts"]
+  "include": ["src", ".storybook/preview.ts", ".storybook/manager.ts"]
 }

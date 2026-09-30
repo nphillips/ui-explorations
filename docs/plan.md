@@ -17,7 +17,10 @@ In rough order; pick the next one when the last is done.
 2. **Selection table with bulk-action bar** — a fake deployment queue (service, environment, status, duration, triggered by) with retry, cancel and promote. Roving tabindex, `aria-multiselectable`, Shift-click ranges, Escape clears, a live region for the count, focus returning correctly when the bar closes. The bar enters and exits with interruptible transform/opacity motion that honors `prefers-reduced-motion`.
 3. **Command palette** — generic over item type, portal, focus trap, typeahead, keyboard navigation, grouped results.
 
-Later, labeled as experiments: a streaming AI summary panel (a first attempt at streaming UI).
+Later:
+
+- Portfolio slideshow rewrite, or something similar.
+- Streaming UI spike.
 
 ## What each component should show
 
